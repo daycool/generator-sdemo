@@ -1,0 +1,18 @@
+{
+  "name": "generator-sdemo",
+  "version": "0.0.1",
+  "description": "test yo generator",
+  "main": "app/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "qmw",
+  "license": "ISC",
+  "dependencies": {
+    "yeoman-generator": "^0.18.3"
+  },
+  "devDependencies": {}
+}
